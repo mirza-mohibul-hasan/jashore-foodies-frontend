@@ -9,9 +9,8 @@ const AllRestaurents = () => {
       .then((data) => setRestaurants(data));
   }, []);
   return (
-    <div className="max-w-7xl mx-auto">
-      <h1>Resturents</h1>
-      <div className="grid grid-cols-3 gap-7">
+    <div className="max-w-7xl mx-auto mt-16">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-7">
         {restarents.map((restu) => (
           <AllRestaurentsCard
             key={restu.restaurantId}

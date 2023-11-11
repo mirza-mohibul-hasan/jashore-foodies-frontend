@@ -9,6 +9,7 @@ import Home from "../pages/Home/Home";
 import AllRestaurents from "../pages/AllRestaurents/AllRestaurents";
 import Additems from "../pages/Temporary/Additems";
 import RestaurantRegister from "../pages/Temporary/RestaurantRegister";
+import SignUpDeliveryMan from "../pages/Authentication/SignUpDeliveryMan";
 
 const router = createBrowserRouter([
   {
@@ -46,6 +47,10 @@ const router = createBrowserRouter([
       {
         path:"restaturantregister",
         element: <RestaurantRegister></RestaurantRegister>
+      },
+      {
+        path:"signupwithdeliveryman",
+        element:<SignUpDeliveryMan></SignUpDeliveryMan>
       }
     ],
   },

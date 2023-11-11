@@ -3,7 +3,7 @@
     "restaurantId": 1,
     "name": "Cafe Mariot",
     "liscenceNo": "abcd1234",
-    "address": "14,Rail Road, Jessore Bangladesh",
+    "address": "14, Rail Road, Jessore, jessore-7400 Bangladesh",
     "schedule": "9:00 AM to 10:00PM",
     "category": "Bengali",
     "image": "https://www.mawbiz.com.bd/application/views/module/product_image/cafe-mariot-food-menu_1.jpg?h=60",
@@ -27,7 +27,7 @@
     "liscenceNo": "abcd1234",
     "address": "Muzib Sarak In Front Of Shonali Bank, Jessore 7400 Bangladesh",
     "schedule": "10:00 AM to 10:00PM",
-    "category": "Italian, Chinese, Steakhouse FastFood",
+    "category": "Chinese",
     "image": "https://i.ibb.co/4TVV6pH/106389033-272049767566604-6232590495019759536-n.jpg",
     "contact": "+880 1912-767171",
     "email": "test@123.com"
@@ -38,7 +38,7 @@
     "liscenceNo": "abcd1234",
     "address": "Muzib Sarak In Front Of Shonali Bank, Jessore 7400 Bangladesh",
     "schedule": "10:00 AM to 10:00PM",
-    "category": "Italian, Chinese, Steakhouse FastFood",
+    "category": " Chinese",
     "image": "https://i.ibb.co/4TVV6pH/106389033-272049767566604-6232590495019759536-n.jpg",
     "contact": "+880 1912-767171",
     "email": "test@123.com"
